@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 document.getElementById("main-content").style.display = "block";
                 startTimer(); 
             } else {
-                alert("كلمة السر غلط يا دودة ركزي 😂");
+                alert("كلمة السر غلط يا دودة ركزي💖");
                 passInput.value = "";
             }
         };
